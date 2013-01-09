@@ -12,7 +12,7 @@
             require([
                     "src/sprites.js",
                     "src/config.js",
-                    "/src/scenes/loading.js"
+                    "src/scenes/loading.js"
                 ], function () {
                     // create some sprites
                     game.sprites = new game.Sprites();
